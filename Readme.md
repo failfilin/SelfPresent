@@ -15,4 +15,3 @@
    
 
 <img src="images/myPhoto.jpg" width="150" height="170">
-![Telegram_2019_Logo.svg](images%2FTelegram_2019_Logo.svg)
