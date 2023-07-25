@@ -1,7 +1,8 @@
 # Seliverstov Alexey
 ### Contacts
-    [telegram](https://t.me/Mephodin)
-    [instagram](https://instagram.com/seliverstov609?igshid=NTc4MTIwNjQ2YQ==)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mephodin)  
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seliverstov609?igshid=NTc4MTIwNjQ2YQ==)
+
 # О себе
 Системный аналитик на проектах крупных корпораций
 
@@ -14,3 +15,4 @@
    
 
 <img src="images/myPhoto.jpg" width="150" height="170">
+![Telegram_2019_Logo.svg](images%2FTelegram_2019_Logo.svg)
